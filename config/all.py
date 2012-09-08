@@ -280,4 +280,4 @@ epub_tocdepth = 2
 epub_tocdup = False
 
 # Languages available.
-languages = ['en', 'pt', 'es', 'ja', 'ru', 'fr']
+languages = ['en', 'pt', 'es', 'ja', 'ru', 'fr', 'zh']
